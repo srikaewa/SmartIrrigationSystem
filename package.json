@@ -1,0 +1,29 @@
+{
+  "name": "smartirrigationsystem",
+  "version": "1.0.0",
+  "description": "SUT Smart Irrigation System Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srikaewa/SmartIrrigationSystem.git"
+  },
+  "keywords": [
+    "Smart",
+    "Irrigation",
+    "System"
+  ],
+  "author": "Arthit Srikaew (JJ)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srikaewa/SmartIrrigationSystem/issues"
+  },
+  "homepage": "https://github.com/srikaewa/SmartIrrigationSystem#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.1"
+  }
+}
